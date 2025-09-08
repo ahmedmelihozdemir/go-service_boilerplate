@@ -5,7 +5,7 @@ go 1.24.1
 require (
 	github.com/eser/ajan v0.6.20
 	github.com/pressly/goose/v3 v3.24.1
-	github.com/spf13/cobra v1.9.1
+	github.com/spf13/cobra v1.10.1
 	google.golang.org/grpc v1.71.0
 	google.golang.org/protobuf v1.36.5
 )
@@ -211,7 +211,7 @@ require (
 	github.com/sourcegraph/go-diff v0.7.0 // indirect
 	github.com/spf13/afero v1.12.0 // indirect
 	github.com/spf13/cast v1.7.1 // indirect
-	github.com/spf13/pflag v1.0.6 // indirect
+	github.com/spf13/pflag v1.0.9 // indirect
 	github.com/spf13/viper v1.19.0 // indirect
 	github.com/sqlc-dev/sqlc v1.28.0 // indirect
 	github.com/ssgreg/nlreturn/v2 v2.2.1 // indirect
